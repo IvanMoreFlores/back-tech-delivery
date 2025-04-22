@@ -19,8 +19,8 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone <url-del-repositorio>
-   cd <nombre-del-repositorio>
+   git clone https://github.com/IvanMoreFlores/back-tech-delivery.git
+   cd back-tech-delivery
    ```
 
 2. **Instalar dependencias**:
